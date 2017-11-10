@@ -1,0 +1,33 @@
+Using base path: data
+Running with data: miniTest
+Running with model: ibm1
+Alignment:
+[#]      | X
+   [#]   | Y
+      [#]| Z
+---------'
+ A  B  C 
+
+Alignment:
+[#]   | X
+   [#]| Y
+------'
+ A  B 
+
+Alignment:
+[#]   | Y
+      | W
+   [#]| Z
+------'
+ B  C 
+
+Alignment:
+[#]   | U
+ # [ ]| V
+      | W
+------'
+ D  F 
+
+Precision: 0.8888888888888888
+Recall: 0.8888888888888888
+AER: 0.11111111111111116
